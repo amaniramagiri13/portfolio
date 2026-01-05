@@ -43,7 +43,7 @@ index.html
 
 (Replace this with your GitHub Pages link)
 
-👉 Live Portfolio: https://amaniramagiri13.io/portfolio/
+👉 Live Portfolio: https:https://startling-hamster-b422e1.netlify.app/
 
 📬 Contact
 
